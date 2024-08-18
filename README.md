@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -148,7 +147,7 @@
                     <p>ANTI DELAY</p>
                     <p>ANTI DDOS</p>
                     <p>SC BOT AMAN</p>
-                    <p>HARGA: 20K</p>
+                    <p>HARGA: 5K</p>
                 </div>
                 <button class="buy-button" onclick="buy('PAKET 4')">Beli</button>
             </div>
